@@ -26,6 +26,8 @@ I started as a Mechanical Engineer and now automate enterprise networks and AI w
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/riteshraut1601/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-raut-9aa4b71ba)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshraut0116@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=FF7139)](https://riteshrautwebsite.netlify.app/)
+[![Portfolio--Alt](https://img.shields.io/badge/Portfolio%202-000000?logo=firefox&logoColor=FF7139)](https://riteshrautwebsite1.netlify.app/)
 
 ---
 
