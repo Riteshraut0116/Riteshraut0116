@@ -1,4 +1,4 @@
-# 💫 About Me
+## 💫 About Me
 
 🔭 **I’m currently working on**  
 Enterprise Network Automation & Agentic AI solutions at **Cognizant**, focusing on scalable, intelligent workflows for global projects.
@@ -106,3 +106,26 @@ I started as a Mechanical Engineer and now automate enterprise networks and AI w
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/riteshraut9075)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+---
+
+## 👤 Author
+
+**Ritesh Raut**  
+*Programmer Analyst, Cognizant*
+
+Automating networks • Engineering intelligence • Scaling the future 🤖🌐
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://github.com/Riteshraut0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Riteshraut0116" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritesh-raut-9aa4b71ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-raut-9aa4b71ba" height="30" width="40" /></a>
+<a href="https://www.instagram.com/riteshraut1601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riteshraut1601" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ritesh.raut.649321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritesh.raut.649321" height="30" width="40" /></a>
+</p>
+
+---
